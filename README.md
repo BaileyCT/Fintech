@@ -1,21 +1,16 @@
 # Fintech
 
-# Learning Markdown
+Hello, My name is Bailey
 
+![picture](Images/Ski.jpg)
 
---- 
-``` python 
-print ('this is my fintech space')
-```
+This is a picture of my skiing at Blue mountain. god damn I look good! 
 
-> "this is a quote"
+## README Description
+### Table of Contents
 
 [Code](Code)
-
 [References](References)
-
+[Images] (Images)
 [Data](Data)
-
-# Tips and Tricks
-## Getting around Markdown
 
