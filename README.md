@@ -4,7 +4,7 @@ Hello, My name is Bailey
 
 ![picture](Images/Ski.jpg)
 
-This is a picture of my skiing at Blue mountain. god damn I look good! 
+This is a picture of my skiing at Blue mountain. Got damn I look good! 
 
 ## README Description
 ### Table of Contents
