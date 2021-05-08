@@ -10,7 +10,7 @@ print ('this is my fintech space')
 
 > "this is a quote"
 
-[code](code)
+[Code](Code)
 
 [References](References)
 
