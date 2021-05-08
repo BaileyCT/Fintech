@@ -10,7 +10,10 @@ This is a picture of my skiing at Blue mountain. Got damn I look good!
 ### Table of Contents
 
 [Code](Code)
+
 [References](References)
-[Images] (Images)
+
+[Images](Images)
+
 [Data](Data)
 
