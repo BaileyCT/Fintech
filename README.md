@@ -16,4 +16,6 @@ print ('this is my fintech space')
 
 [Data](Data)
 
+# Tips and Tricks
+## Getting around Markdown
 
