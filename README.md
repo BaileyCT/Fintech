@@ -1,12 +1,10 @@
 # Fintech
 
-Hello, My name is Bailey
-
-![picture](Images/Ski.jpg)
-
-This is a picture of my skiing at Blue mountain. Got damn I look good! 
 
 ## README Description
+
+This repository is a collection of all the projects and work Io have completed in the UofT FinTech Program
+
 ### Table of Contents
 
 [Code](Code)
