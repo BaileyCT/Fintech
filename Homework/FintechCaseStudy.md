@@ -1,16 +1,34 @@
 # Fintech Case Study
 ## Overview and Origin
 
-* Name of company
+### Name of company
+<br>
+Ripple Labs
+<br>
 
-* When was the company incorporated?
+### When was the company incorporated?
+<br>
 
-* Who are the founders of the company?
+Ripple was founded in 2012
+<br>
 
-* How did the idea for the company (or project) come about?
+### Who are the founders of the company?
+<br>
 
-* How is the company funded? How much funding have they received?
+Ripple Labs was founded by Chris Larsen and Jeb McCaleb. The idea of the project "Ripple" or "XRP" is to modernize the institutional payments industry by "unlocking the power of blockchain" (Ripple.com, 2021). The company was funded through venture capitist investment. They have received over 293.8 million dollars (Crunchbase, 2021).
+<br>
+
 ## Business Activities:
+<br>
+
+Founded in 2012 with the introduction of Blockchain technology, Ripple Lab's aim is to tackle the institutional payments industry and replace older technologies such as swift with a faster, decentrilized network. this network called RippleX or "XRP" is a cryptocurrency/blockchain network that offers developers and others to ability build faster and cheaper applications that focus on B2B global payments. The main focus for B2B payments is cost, speed and security. 
+<br>
+
+Ripple Lab's main customer base is financial institutions, examples of these in Canada would be Canadian Imperial Bank of Commerce, TD Bank, and Royal Bank of Canada. It is estimated that roughly $120 trillion per year globally with $25 trillion per year domestically (Goldenberg, 2020) is exchanged in B2B payments. This generates a market size of approximatly US $732.4 billion in 2019 (PMI, 2019) with an expect compounding annual growth of 10.1%. because these metrics are pre pandemic it is beleived that this value is closer to a trillion dollar industry. Currently there is one company that has majority control of this industry. Glodenberg notes that this a underpentrated market that is 
+
+<br>
+
+
 
 * What specific financial problem is the company or project trying to solve?
 
